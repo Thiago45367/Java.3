@@ -9,7 +9,7 @@ public class Atividade4 {
      System.out.println("Digite uma senha");
      String senha=sc.next();
 
-     if(senha.equals(senha)){
+     if(senha.equals("ambatukum")){
       System.out.println("porta aberta");
      }else{
       System.out.println("porta fechada");
