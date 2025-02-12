@@ -8,9 +8,9 @@ public class AtividadeMenu {
 
         while (op!=4) {
             System.out.println("\n==MENU==");
-            System.out.println("1. Caixa de papelão");
-            System.out.println("2. Sacola plástica");
-            System.out.println("3. Embalagem de vidro");
+            System.out.println("1. Caixa de papelão: Ideal para transporte e armazenamento");
+            System.out.println("2. Sacola plástica: Leve e prática, mas pouco sustentável");
+            System.out.println("3. Embalagem de vidro: Resistente e reutilizável");
             System.out.println("4. Finalizar a Seleção");
             System.out.println("Escolha sua Caixa: ");
             op=sc.nextInt();
